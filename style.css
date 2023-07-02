@@ -1,0 +1,24 @@
+* {
+    margin:0%;
+    padding:0%;
+}
+
+body {
+    margin:7rem;
+    background-color: rgb(32, 39, 39);
+    text-align:center;
+}
+
+h1 {
+    margin:2rem;
+    color:pink;
+    font-size:4rem;
+    font-family:Blackadder ITC; 
+}
+
+p {
+    color:rgb(72, 216, 173);
+    font-size:1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
